@@ -5,7 +5,8 @@
 <p>User must enter names of his friends followed by comma and blank space</p>
 <p>For example:
 
- - Dana :girl:, Michael :godmode:, Robert :boy:, Celine :bride_with_veil:</p>
+ - <i>Dana :girl:, Michael :godmode:, Robert :boy:, Celine :bride_with_veil:</i>
+</p>
 
 <p>When he finished this input, he click <kbd>Enter</kbd> key, and we get cards of his friends below with such info: photo, name, short description</p>
 
