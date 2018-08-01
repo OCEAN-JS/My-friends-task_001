@@ -18,7 +18,7 @@ Examples of UI:
 
 <p>You can choose photos and remote resource as you wish (e. g. Flickr, Unsplash and so on)</p>
 
-<p>Layout of cards must be _2 x 2_ (no matter how many friends you entered - odd or even number). See an example the most below :point_down:</p>
+Layout of cards must be _2 x 2_ (no matter how many friends you entered - odd or even number). See an example the most below :point_down:
 
 ---
 
@@ -53,7 +53,7 @@ Examples of UI:
                         |    descr    |    |    descr    |
                         |             |    |             |
                         └-------------┘    └-------------┘
-                        
+
                         ┌-------------┐    ┌-------------┐
                         |             |    |             |
                         |    photo    |    |    photo    |
