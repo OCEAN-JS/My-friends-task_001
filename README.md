@@ -8,7 +8,7 @@
  - <i>Dana :girl:, Michael :godmode:, Robert :boy:, Celine :bride_with_veil:</i>
 </p>
 
-<p>When he finished this input, he click <kbd>Enter</kbd> key, and we get cards of his friends below with such info: photo, name, short description</p>
+<p>When he finished this input(the number of names is not set hard, that is, the user can enter 3 or 5 names. In this case, the grid structure is preserved: aligning to the left), he click <kbd>Enter</kbd> key, and we get cards of his friends below with such info: photo, name, short description</p>
 
 <p>Cards and input (with label, see below) must have attractive UI :warning:</p>
 
@@ -30,7 +30,7 @@ Layout of cards must be _2 x 2_ (no matter how many friends you entered - odd or
  - <i>Катя :bride_with_veil:, Тоня :girl:, Вася :boy:, Петя :godmode:</i>
 </p>
 
-<p>Как только все имена введены, пользователь может нажать клавишу <kbd>Enter</kbd>, и ниже выводятся карточки его друзей со следующей информацией: фото, имя, краткое описание.</p>
+<p>Как только все имена введены(количество имён задано не жёстко, то есть, пользователь может ввести и 3 и 5 имён. При этом структура сетки сохраняется: выравнивание по левому краю), пользователь может нажать клавишу <kbd>Enter</kbd>, и ниже выводятся карточки его друзей со следующей информацией: фото, имя, краткое описание.</p>
 
 <p>Оформление карточек и инпута(с иконкой :bust_in_silhouette:) обязательно :warning:</p>
 
