@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">My friends - task_001</h1>
+  <h2 align="center">My friends - task_001</h2>
 </p>
 
 <p>User must enter names of his friends followed by comma and blank space</p>
@@ -27,6 +27,9 @@ Implement drag-and-drop. When capturing and dragging a card, the card is moved t
 
 ***
 ***
+<p align="center">
+  <h2 align="center">My друзья - task_001</h2>
+</p>
 
 <p>Пользователь вводит в поле инпута имена своих друзей через запятую и пробел.</p>
 
