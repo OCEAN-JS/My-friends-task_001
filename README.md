@@ -25,7 +25,8 @@ __Extra task:__
 
 Implement drag-and-drop. When capturing and dragging a card, the card is moved to the place where it happened to drop to the place of the captured card. The captured card in turn takes the place of the target. For example, if the first one is selected and it is released into place by the fourth, then they change places (the 4th card rises in place of the 1st, and the 1st card takes the place of the 4th)
 
----
+***
+***
 
 <p>Пользователь вводит в поле инпута имена своих друзей через запятую и пробел.</p>
 
