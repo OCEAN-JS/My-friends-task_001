@@ -21,6 +21,10 @@ Examples of UI:
 
 Layout of cards must be _2 x 2_ (no matter how many friends you entered - odd or even number). See an example the most below :point_down:
 
+__Extra task:__
+
+Implement drag-and-drop. When capturing and dragging a card, the card is moved to the place where it happened to drop to the place of the captured card. The captured card in turn takes the place of the target. For example, if the first one is selected and it is released into place by the fourth, then they change places (the 4th card rises in place of the 1st, and the 1st card takes the place of the 4th)
+
 ---
 
 <p>Пользователь вводит в поле инпута имена своих друзей через запятую и пробел.</p>
@@ -69,4 +73,4 @@ Layout of cards must be _2 x 2_ (no matter how many friends you entered - odd or
 
 __Дополнительное задание:__
 
-Реализовать drag-and-drop. При захвате и перетаскивании какой-либо карточки происходит взаимное перемещение той карточки на которую произошёл drop на место захваченной. Захваченная карточкая в свою очередь занимает место целевой.
+Реализовать drag-and-drop. При захвате и перетаскивании какой-либо карточки происходит взаимное перемещение той карточки на которую произошёл drop на место захваченной. Захваченная карточкая в свою очередь занимает место целевой. Например, если выбрана первая и происходит её отпускание на место четвёртой, то они меняются местами(4-ая карточка встаёт на место 1-ой, и 1-ая - на место 4-ой).
