@@ -19,7 +19,7 @@ Examples of UI:
 
 <p>You can choose photos and remote resource as you wish (e. g. Flickr, Unsplash and so on)</p>
 
-Layout of cards must be _2 x 2_ (no matter how many friends you entered - odd or even number). See an example the most below :point_down:
+Layout of cards must be _2 x 2_ (no matter how many friends you entered - odd or even number). See an example the most below(*pic. 1*) :point_down:
 
 __Extra task:__
 
@@ -46,6 +46,8 @@ Implement drag-and-drop. When capturing and dragging a card, the card is moved t
 <p>Фотографии выбираются произвольно со стороннего ресурса (ресурс выбирается самостоятельно. Например, Flickr, Unsplash и т. д.).</p>
 
 Само расположение карточек по сетке _2 х 2_ (если было введено нечётное количество друзей, то сетка остаётся):
+
+*pic. 1*
 
 ```
 
