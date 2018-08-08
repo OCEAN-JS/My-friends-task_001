@@ -39,7 +39,7 @@ Layout of cards must be _2 x 2_ (no matter how many friends you entered - odd or
  - <a href="https://getbootstrap.com/docs/4.1/components/card/">Card component (bootstrap)</a>
  - <a href="https://stackoverflow.com/questions/18838964/add-bootstrap-glyphicon-to-input-box">Input with icon</a>
 
-<p>Фотографии выбираются произвольно со стороннего ресурса (ресурс выбирается самостоятельно).</p>
+<p>Фотографии выбираются произвольно со стороннего ресурса (ресурс выбирается самостоятельно. Например, Flickr, Unsplash и т. д.).</p>
 
 Само расположение карточек по сетке _2 х 2_ (если было введено нечётное количество друзей, то сетка остаётся):
 
