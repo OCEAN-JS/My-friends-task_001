@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
       newCard.querySelector('.login').innerHTML = `<b>Username:</b> ${data.results[i].login.username}`;
       newCard.querySelector('.registered').innerHTML = '<b>Registered: </b>' + new Date(data.results[i].registered.date).toLocaleString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
       newCard.querySelector('.card-link').setAttribute('href', `mailto:${data.results[i].email}`);
-      newCard.querySelector('.card-link').innerHTML = `${data.results[i].email}`;
+      newCard.querySelector('.card-link').textContent = `${data.results[i].email}`;
       cardDeck.appendChild(newCard);
     }
   };
